@@ -1,0 +1,25 @@
+body {
+    background-color: gainsboro;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+#block {
+    background-color: blanchedalmond;
+    /* align-items: center; */
+    width: 500px;
+    height: 500px;
+}
+
+#head {
+    color: black;
+    margin-top: 50px;
+    padding: 15px;
+    align-items: center;
+    align-content: center;
+}
+
+h1 {
+    text-align: center;
+}
